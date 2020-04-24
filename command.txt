@@ -1,0 +1,2 @@
+DecryptPluralSightVideos /F “C:\Users\uc244658\AppData\Local\Pluralsight\courses” /DB “C:\Users\uc244658\AppData\Local\Pluralsight\pluralsight.db” /TRANS /RM /OUT “C:\PluralsightCourses”
+
