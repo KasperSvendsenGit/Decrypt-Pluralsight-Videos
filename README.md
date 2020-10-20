@@ -2,7 +2,7 @@
 I am not the original programmer for this project. All software is provided as is. The original user took down their repo during a Pluralsight free month in april 2020. 
 
 # Warning
-Serveral users are experincing problems with rendering of output files. See issues for more...
+Serveral users are experincing problems with rendering of output files (likely because Pluralsight has changed the encryption method). See issues for more...
 
 # Usage
 
